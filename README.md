@@ -13,6 +13,7 @@ Gave name to the repo and enabled "Add README" option
 Opened Cursor and installed both extensions Claude Code and Codex and logged in to it
 Downloaded Guthub desktop and opened the repo through Cursor
 Described all the instructions in Readme file
+Clicked Commit to main and click push origin in Github
 
 What issues you ran into and how you solved them:
 I haven't ran into any issues during the process, as the instructions were clear. 
