@@ -1,0 +1,162 @@
+
+
+Profile
+Link: https://www.linkedin.com/in/madhav-mistry-999349164/
+
+---
+
+Post 1
+Date: April 2026  
+Link: https://www.linkedin.com/posts/madhav-mistry-999349164_90-of-brands-still-chase-google-rankings-activity-7449801521157967873-26k-
+
+Content:
+90% of brands still chase Google rankings.
+The other 10% are getting cited by AI engines.
+
+Which side are you on?
+
+The distinction is simple:
+
+Old SEO asked:
+“How do we rank on page one?”
+New SEO asks:
+“How do we get retrieved, cited, and trusted by AI?”
+
+Old SEO measured clicks.
+New SEO measures citations.
+
+Old SEO stuffed keywords.
+New SEO matches intent.
+
+Old SEO rewarded volume.
+New SEO rewards authority.
+
+I’ve watched too many teams confuse traffic with visibility.
+
+They’ve got dashboards.
+Keyword trackers.
+Dozens of low-value blogs.
+
+But ask them:
+“Is your brand showing up in ChatGPT answers?”
+
+Silence.
+Or worse:
+“We’re #3 for our keywords this quarter.”
+
+That’s not visibility.
+That’s a ranking on borrowed time.
+
+Remember when page one was the goal?
+That world is gone.
+
+AI search doesn’t stop at page one.
+It summarizes.
+It cites.
+It decides who gets trusted.
+
+And if you’re invisible there?
+You don’t exist at discovery.
+
+Real visibility example:
+Your competitor gets cited in Gemini’s answers.
+Your brand? Ignored.
+
+Guess who wins the customer conversation?
+
+When you adapt to New SEO:
+✓ Every mention compounds your authority
+✓ AI engines trust and cite your content
+✓ Your brand shows up where buying decisions are made
+
+When you cling to Old SEO:
+❌ Clicks don’t convert
+❌ Bots crawl, but AI ignores you
+❌ You’re busy producing, but losing relevance
+
+Here’s the uncomfortable truth:
+If AI engines don’t cite you, buyers won’t see you.
+
+Marketers, this is the shift:
+Stop chasing rankings.
+Start chasing citations.
+
+Because in 2025, AI is the new distribution.
+And visibility belongs to the brands which AI choose to cite.
+
+---
+
+Post 2
+Date: April 2026  
+Link: https://www.linkedin.com/posts/madhav-mistry-999349164_this-question-will-shape-yoursearch-strategy-activity-7447993108119568384-Gg3Y
+
+Content:
+This question will shape your search strategy in 2026:
+
+(It impacts your content, metrics, and budget)
+
+“Do you want traffic… or do you want visibility?”
+
+Here’s the difference.
+
+1. Traffic-first search (SEO-led)
+
+The effort is focused on rankings, clicks, and sessions.
+You invest in blogs, keywords, and on-site optimization.
+
+The goal is to bring people to your site.
+Success is measured in impressions, traffic, and conversions.
+
+This works well when:
+
+- Your buyers already know what to search
+- You rely on clicks to drive demand
+- Your funnel starts after the visit
+
+It’s ideal for discovery-heavy markets and click-driven funnels.
+
+2. AI-Visibility based search (SEO + AEO)
+
+The effort is split between discovery and AI answers.
+You invest in structured content, comparisons, and clarity.
+
+The goal is to be referenced before the click happens.
+Success is measured in citations, inclusion, and recall.
+
+This works well when:
+
+- Buyers research through AI tools
+- Decisions happen before site visits
+- Trust is built inside answers, not pages
+
+It’s ideal for complex B2B offers and long consideration cycles.
+
+So this question matters.
+
+Because it impacts everything else:
+
+- Your content: are you writing for rankings only, or for answers and explanations?
+- Your metrics: do you track clicks, or visibility inside AI-generated responses?
+- Your funnel: does intent start after the visit, or before it?
+- Your investment: more pages, or better structure and clarity?
+
+SEO still matters.
+But in 2026, it doesn’t work alone.
+
+Search is now SEO + AEO, working together.
+
+Because the teams that win the next decade
+won’t just be found.
+
+They’ll be remembered.
+
+That’s why AI search visibility matters.
+
+With the Semrush One, you can see how AI systems describe your brand across platforms like ChatGPT, Gemini, and Perplexity.
+
+You can:
+
+- Understand where your brand appears in AI answers
+- See your share of voice across AI platforms
+- Compare competitors and uncover missed prompts
+- Turn visibility insights into clear, actionable next steps
