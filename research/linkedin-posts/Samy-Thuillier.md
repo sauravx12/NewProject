@@ -107,3 +107,50 @@ If you want to stay in the right column every time something like this happens (
 
 Frameworks, not takes. 
 What to actually do, not what to panic about.
+
+
+Post: 4
+Date: April 2026
+Link: https://www.linkedin.com/posts/samythuillier_google-is-now-going-to-clap-you-if-you-publish-activity-7449822621573017600-ONcM
+
+Content:
+Google is now going to clap you if you publish self-serving listicles. And NOBODY is talking about it.
+
+As a comment to a now famous article on The Verge, one of their spokesperson confirmed they know that there are pages that exist primarily to link back to the site they live on. Google calls it out by name.
+
+Which means every "Top 10 Tools for X" article you wrote on your own blog, with your product sitting at number one, is now documented as exactly the kind of content Google wants to devalue.
+
+This has been coming for years. 
+
+The pattern is too obvious: a company publishes a list, ranks itself first, gives the other nine slots to brands that won't sue them, and calls it editorial content.
+
+Google knows. 
+It's always known.
+It let you play with it for some time.
+Now it's saying it out loud.
+
+So if you're still building listicles as a self-linking strategy on your own domain, you're building on borrowed time.
+
+The actual play is simpler: get listed by someone else.
+
+How?
+
+- Pitch Capterra, G2, Product Hunt, Clutch. Try your luck. 
+- Go for niche review blogs, industry newsletters. They're smaller, easier.
+- Get a journalist to include you in their "best of" roundup. 
+- Write a genuinely useful listicle for a third-party publication that actually has editorial standards and will give you a clean backlink in return.
+
+Seems common?
+Maybe you didn't think about that one: Substack.
+
+A mention on a Substack with 12,000 readers who trust the writer is worth more than a self-published list where you happen to rank yourself first.
+
+Again, too easy?
+Then why aren't you doing it?
+
+Clearscope got cited everywhere when they started showing up in SEO educators' tool stacks. 
+
+Not because they listed themselves.
+Because real users listed them.
+
+That's the model worth copying.
