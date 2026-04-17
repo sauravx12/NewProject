@@ -1,11 +1,15 @@
 from supadata import Supadata
 import os
+
 supadata = Supadata(api_key="sd_3657bac9e07a162981cec64c1fb6149d")
 
-transcript = supadata.transcript(url="https://www.youtube.com/watch?v=mB0QuXEv_sg")
+
+url = "https://www.youtube.com/watch?v=53h_-LoEGiw"
+
+transcript = supadata.transcript(url=url)
 full_text = " ".join([chunk.text for chunk in transcript.content])
 
-folder = "youtube_transcripts"
+folder = "research/youtube-transcripts"
 os.makedirs(folder, exist_ok=True)
 
 video_id = url.split("v=")[-1]

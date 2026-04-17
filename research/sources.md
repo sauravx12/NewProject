@@ -80,3 +80,8 @@ SEO and SaaS marketing expert with extensive experience working with both startu
 
 Why this expert: 
 Recognized SEO expert who shares in-depth tutorials and strategies on search engine optimization, making complex concepts easy to understand and implement.
+
+10. Ryan Darani
+-Profile: https://www.linkedin.com/in/rdotdarani/
+
+AI powered SEO consultant with a decade of experience in the industry.
